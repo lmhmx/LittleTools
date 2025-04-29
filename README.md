@@ -5,7 +5,8 @@ LittleTools是自己在学习中自己使用到的一些小工具的集合，可
 # 工具目录
 
 ## `tools.py` 实用的python小工具
-小工具包功能
+
+小工具包功能：
 
 * `DataRecorder`:  记录数据
 * `time_int()`: 返回从两次调用此函数的时间间隔
@@ -15,3 +16,10 @@ LittleTools是自己在学习中自己使用到的一些小工具的集合，可
 * `Counter`: 计数，默认从1开始
 * `set_rand_seed`: 设置随机数种子，包含torch, torch.cuda, numpy和python自己
 
+## `common_import.py` 常见的一些python导入包
+
+包含
+
+* tools: *
+* numpy: linspace, array
+* matplotlib: pyplot
